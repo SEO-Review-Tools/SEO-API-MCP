@@ -1,6 +1,6 @@
 # SEO Review Tools API - MCP server 
 
-![Alt text for image](https://www.seoreviewtools.com/wp-content/uploads/SEO-Review-Tools-API-MCP-server.png)
+![Alt text for image](https://www.seoreviewtools.com/wp-content/uploads/SEO-Review-Tools-API-MCP-server-1.png)
 
 The SEO Review Tools MCP server offers a new way to integrate advanced SEO data into your applications and AI agents. By leveraging the Model Context Protocol (MCP), this server acts as a seamless bridge, enabling Large Language Models (LLMs) and other AI tools to interact with the vast SEO Review Tools API endpoints directly through natural language. 
 
