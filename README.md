@@ -1,16 +1,14 @@
-
-
-## 🚦 SEO Review Tools API - MCP server 
+# SEO Review Tools API - MCP server 
 
 The SEO Review Tools MCP server offers a new way to integrate advanced SEO data into your applications and AI agents. By leveraging the Model Context Protocol (MCP), this server acts as a seamless bridge, enabling Large Language Models (LLMs) and other AI tools to interact with the vast SEO Review Tools API endpoints directly through natural language. 
 
 The MCP server provides you with access to:  
 
-  ✅ 2.8T+ Backlinks
-  ✅️ 6B+ Keywords
+  ✅ 3.1T+ Backlinks
+  ✅️ 7B+ Keywords
   ✅️ 560M+ Crawled SERPs  
 
-### Included SEO endpoints 
+## Included SEO endpoints 
 1. [Backlinks API → ](https://www.seoreviewtools.com/backlink-api/)
 2. [Keywords API → ](https://www.seoreviewtools.com/keyword-api/)
 3. [Website traffic API → ](https://www.seoreviewtools.com/website-traffic-api/)
@@ -19,34 +17,33 @@ The MCP server provides you with access to:
 6. [Domain authority API  → ](https://www.seoreviewtools.com/authority-score-api/)
 7. [Plagiarism API → ](https://www.seoreviewtools.com/duplicate-content-api/)
 
-### MCP Clients 
+## MCP Clients 
 
 You can connect SEO Review Tools MCP server to any MCP client. 
-Here are some use case examples:  
+Here are some examples of MCP clients:  
 
- * 
+- [Claude Desktop](https://claude.ai/download) 
+- [Visual Studio Code](https://code.visualstudio.com/) 
+- [Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/introducing-model-context-protocol-mcp-in-copilot-studio-simplified-integration-with-ai-apps-and-agents/)
+- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
+- [LibreChat](https://www.librechat.ai/) 
 
-
-### Usage examples 
-
-You can connect SEO Review Tools MCP server to any MCP client. 
-Here are some examples:  
-
---------\\\\\\\\\--------
-
-### ⚙️ Requirements  
-
-Before starting, please ensure you have:
-
-- [Node.js (v18+ required, v20+ recommended)](https://nodejs.org/)
-- [SEO Review Tools API key → ](https://www.seoreviewtools.com/api-pricing/) 
 
 ## The MCP server [local / remote]
 
 The MCP server can either run locally or remote, in the examples below we're connecting with API trough a local MCP setup using Node JS. But the code can also be deployed to a remote Node JS server.   
 (Additionally the provided code can be converted from JS to other programming languages like Python or TypeScript)    
 
-### 📥 Installation & Setup
+
+## Requirements  
+
+Before starting, please ensure you have:
+
+- [Node.js (v18+ required, v20+ recommended)](https://nodejs.org/)
+- [SEO Review Tools API key → ](https://www.seoreviewtools.com/api-pricing/) 
+
+
+## Installation & Setup
 
 **1. Install dependencies**
 
@@ -56,7 +53,7 @@ Run from your project's root directory:
 npm install
 ```
 
-### 🔐 Set tool environment variables
+### Set tool environment variables
 
 In the `.env` file, you'll see environment variable placeholder.
 
@@ -67,7 +64,7 @@ SEO_API_WORKSPACE_API_KEY=
 
 ``` 
 
-## 👩‍💻 How to connect the SEO Review Tools MCP server to Claude Desktop? 
+## How to connect the SEO Review Tools MCP server to Claude Desktop? 
 
 Follow these steps to connect the SEO Review Tools MCP server to Claude Desktop.
 
@@ -89,8 +86,7 @@ Follow these steps to connect the SEO Review Tools MCP server to Claude Desktop.
 Restart Claude Desktop to activate. 
 
 
-## 🌐 Connect the MCP Server to Postman
-
+## Connect the MCP Server to Postman
 
 
 **Step 1**: Download Postman Desktop.
@@ -98,3 +94,7 @@ Restart Claude Desktop to activate.
 **Step 2**: Set the type of the MCP request to `STDIO` and set the command to `node </absolute/path/to/mcpServer.js>`.
 
 **Step 3**: Connect with the SEO Review Tools APIs using Postman. 
+
+## More information and support
+
+* [SEO Review Tools](xxx)
