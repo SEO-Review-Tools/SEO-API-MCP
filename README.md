@@ -31,12 +31,6 @@ Here are some examples of MCP clients:
 - [LibreChat](https://www.librechat.ai/) 
 
 
-## The MCP server [local / remote]
-
-The MCP server can either run locally or remote, in the examples below we're connecting with API trough a local MCP setup using Node JS. But the code can also be deployed to a remote Node JS server.   
-(Additionally the provided code can be converted from JS to other programming languages like Python or TypeScript)    
-
-
 ## Requirements  
 
 Before starting, please ensure you have:
