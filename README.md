@@ -93,4 +93,4 @@ Restart Claude Desktop to activate.
 
 ## More information and support
 
-* [SEO Review Tools](xxx)
+* [SEO Review Tools](https://www.seoreviewtools.com/seo-review-tools-mcp-server/)
