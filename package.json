@@ -1,5 +1,5 @@
 {
-  "name": "postman-mcp-generator-mcp",
+  "name": "seo-review-tools",
   "version": "1.0.0",
   "description": "A simple MCP server with packaged tools",
   "main": "index.js",
@@ -16,6 +16,6 @@
   "engines": {
     "node": ">=16.0.0"
   },
-  "author": "Postman, Inc.",
+  "author": "SEO Review Tools",
   "license": "MIT"
 }
