@@ -2,12 +2,16 @@
 
 ![Alt text for image](https://www.seoreviewtools.com/wp-content/uploads/SEO-Review-Tools-API-MCP-server-1.png)
 
+<a href="https://glama.ai/mcp/servers/@SEO-Review-Tools/SEO-API-MCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@SEO-Review-Tools/SEO-API-MCP/badge" alt="SEO Review Tools - server MCP server" />
+</a>
+
 The SEO Review Tools MCP server offers a new way to integrate advanced SEO data into your applications and AI agents. By leveraging the Model Context Protocol (MCP), this server acts as a seamless bridge, enabling Large Language Models (LLMs) and other AI tools to interact with the vast SEO Review Tools API endpoints directly through natural language. 
 
 The MCP server provides you with access to:  
 
-  ✅ 3.1T+ Backlinks
-  ✅️ 7B+ Keywords
+  ✅ 3.1T+ Backlinks  
+  ✅️ 7B+ Keywords  
   ✅️ 560M+ Crawled SERPs  
 
 ## Included SEO endpoints 
@@ -30,14 +34,12 @@ Here are some examples of MCP clients:
 - [OpenAI Agents SDK](https://openai.github.io/openai-agents-python/mcp/)
 - [LibreChat](https://www.librechat.ai/) 
 
-
 ## Requirements  
 
 Before starting, please ensure you have:
 
 - [Node.js (v18+ required, v20+ recommended)](https://nodejs.org/)
 - [SEO Review Tools API key → ](https://www.seoreviewtools.com/api-pricing/) 
-
 
 ## Installation & Setup
 
@@ -81,9 +83,7 @@ Follow these steps to connect the SEO Review Tools MCP server to Claude Desktop.
 
 Restart Claude Desktop to activate. 
 
-
 ## Connect the MCP Server to Postman
-
 
 **Step 1**: Download Postman Desktop.
 
